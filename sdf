@@ -1,0 +1,11 @@
+[33mcommit c8698fe4834c3dce44f94cc926659082bce9564f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: user <142269459+Moataz-Elshafei@users.noreply.github.com>
+Date:   Tue Jan 7 20:20:23 2025 +0200
+
+    addint menu list and link it with a pages
+
+[33mcommit 503b90cffc64963ae3d616847f4d868f4140e65a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Moataz-Elshafei <142269459+Moataz-Elshafei@users.noreply.github.com>
+Date:   Tue Jan 7 00:56:44 2025 +0200
+
+    Initial commit
